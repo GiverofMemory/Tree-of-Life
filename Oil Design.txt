@@ -46,16 +46,17 @@ TB oil:
 COMBO
 
 5 clove
-4 nutmeg
-12 thyme
-8 peppermint
+3 nutmeg
+11 thyme
+7 peppermint
 7 cinnamon
 2 oregano
 2 carrot
 5 eucalyptus
 5 rosemary
 5 bergamot
-5 lavender
+4 lavender
+4 lemongrass
 
 missing in general:
 ginger
