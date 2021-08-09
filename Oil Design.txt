@@ -56,7 +56,7 @@ COMBO
 5 rosemary
 5 bergamot
 4 lavender
-4 lemongrass
+4 lemongrass -p acnes
 
 3 droppers each:
 castor
@@ -72,3 +72,4 @@ C8 MCT
 
 missing in general:
 ginger
+citronella - p acnes
